@@ -5,6 +5,11 @@ export const videos = [
   },
 
   {
+    title: "Why are there so many religions?",
+    link: "https://www.youtube.com/watch?v=4i2YPhfu4c0&ab_channel=GotQuestionsMinistries",
+  },
+
+  {
     title: "The Overview of the 66 Bible Books",
     link: "https://www.youtube.com/watch?v=P2uvuu5xXZE&ab_channel=OverviewBible",
   },
@@ -49,48 +54,43 @@ export const videos = [
     link: "https://www.youtube.com/watch?v=64EwuOw6dyU&ab_channel=AnswersinGenesis",
   },
 
-  // {
-  //   title: "The Logic of the Gospel",
-  //   link: "https://www.youtube.com/watch?v=HJrIjfD22PA&ab_channel=DesiringGod",
-  // },
+  {
+    title: "The Logic of the Gospel",
+    link: "https://www.youtube.com/watch?v=HJrIjfD22PA&ab_channel=DesiringGod",
+  },
 
-  // {
-  //   title: "Is it True that Everything Happens for a Reason?",
-  //   link: "https://www.youtube.com/watch?v=BFCp9nOy1r4&list=WL&index=7&ab_channel=GotQuestionsMinistries",
-  // },
+  {
+    title: "Is it True that Everything Happens for a Reason?",
+    link: "https://www.youtube.com/watch?v=BFCp9nOy1r4&list=WL&index=7&ab_channel=GotQuestionsMinistries",
+  },
 
-  // {
-  //   title: "Is God A Violent Monster?",
-  //   link: "https://www.youtube.com/watch?v=Z-xWCw4V1Qo&ab_channel=TheFuelProject",
-  // },
+  {
+    title: "Is God A Violent Monster?",
+    link: "https://www.youtube.com/watch?v=Z-xWCw4V1Qo&ab_channel=TheFuelProject",
+  },
 
-  // {
-  //   title: "How Do I Lead Someone to Christ?",
-  //   link: "https://www.youtube.com/watch?v=FZ16SYB2EtI&list=WL&index=3&ab_channel=DesiringGod",
-  // },
+  {
+    title: "How Do I Lead Someone to Christ?",
+    link: "https://www.youtube.com/watch?v=FZ16SYB2EtI&list=WL&index=3&ab_channel=DesiringGod",
+  },
 
-  // {
-  //   title: "Dr. David Wood Concisely Proves The Trinity",
-  //   link: "https://www.youtube.com/watch?v=xyW0Vu-Em0Y&ab_channel=TrinityApologetics",
-  // },
+  {
+    title: "Dr. David Wood Concisely Proves The Trinity",
+    link: "https://www.youtube.com/watch?v=xyW0Vu-Em0Y&ab_channel=TrinityApologetics",
+  },
 
-  // {
-  //   title: "How could God be Three-in-One?",
-  //   link: "https://www.youtube.com/watch?v=1ra0ASN0d7o&ab_channel=ThreeMinuteTheology",
-  // },
+  {
+    title: "How could God be Three-in-One?",
+    link: "https://www.youtube.com/watch?v=1ra0ASN0d7o&ab_channel=ThreeMinuteTheology",
+  },
 
-  // {
-  //   title: "The Trinity - How Do We Understand 1 God in 3 Persons?",
-  //   link: "https://www.youtube.com/watch?v=HWvj1ttnC30&ab_channel=3MinuteTheology",
-  // },
+  {
+    title: "The Trinity - How Do We Understand 1 God in 3 Persons?",
+    link: "https://www.youtube.com/watch?v=HWvj1ttnC30&ab_channel=3MinuteTheology",
+  },
 
-  // {
-  //   title: "Six Days: The Age of the Earth and the Decline of the Church",
-  //   link: "https://www.youtube.com/watch?v=ekzgGUYCutY&list=WL&index=2&ab_channel=AnswersinGenesis",
-  // },
-
-  // {
-  //   title: 'Why Is Jesus Called "The Son of God"?',
-  //   link: "https://www.youtube.com/watch?v=c6L92bo-LDQ&ab_channel=Acts17Apologetics",
-  // },
+  {
+    title: "Six Days: The Age of the Earth and the Decline of the Church",
+    link: "https://www.youtube.com/watch?v=ekzgGUYCutY&list=WL&index=2&ab_channel=AnswersinGenesis",
+  },
 ];
