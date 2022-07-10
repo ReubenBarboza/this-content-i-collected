@@ -14,7 +14,7 @@ const Home = () => {
   const [proverbData, setProverbData] = useState(null);
   useEffect(() => {
     const fetchVerse = async function () {
-      console.log("called");
+      console.log("God bless you with Wisdom and Understanding!");
       const chapterAndVerse = getRandomChapterAndVerse();
       const response = await fetch(
         `https://bible-api.com/Proverbs+${chapterAndVerse.chapter}:${chapterAndVerse.verse}?translation=bbe`
