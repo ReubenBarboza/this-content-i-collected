@@ -22,7 +22,7 @@ const YoutubeCard = ({ item }) => {
     >
       <Link
         className=' w-full h-full inline-flex flex-col justify-between gap-2 '
-        to={`/youtube/${convertLinkToEmbedId()}`}
+        to={`/this-content-i-collected/youtube/${convertLinkToEmbedId()}`}
       >
         <span className='text-3xl font-bold text-center my-auto text-cyan-900 pb-2 '>
           {item.title}

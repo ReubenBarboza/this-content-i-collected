@@ -11,10 +11,19 @@ function App() {
       <BrowserRouter>
         <Navbar />
         <Routes>
-          <Route path='/' element={<Home />} />
-          <Route path='/youtube' element={<Youtube />}></Route>
-          <Route path='/youtube/:id' element={<YoutubeVideo />}></Route>
-          <Route path='/media' element={<Media />}></Route>
+          <Route path='/this-content-i-collected' element={<Home />} />
+          <Route
+            path='/this-content-i-collected/youtube'
+            element={<Youtube />}
+          ></Route>
+          <Route
+            path='/this-content-i-collected/youtube/:id'
+            element={<YoutubeVideo />}
+          ></Route>
+          <Route
+            path='/this-content-i-collected/media'
+            element={<Media />}
+          ></Route>
         </Routes>
       </BrowserRouter>
       {}

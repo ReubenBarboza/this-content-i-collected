@@ -10,7 +10,9 @@ const Navbar = () => {
     <nav className='flex justify-between items-center sticky h-navHeight top-0 z-50  bg-cyan-900 '>
       {/* left nav */}
       <div className='ml-6 text-[clamp(1rem,1rem_+_1vw,4rem)] font-bold text-cyan-300 hover:text-cyan-100 cursor-pointer'>
-        <NavLink to='/'>This Content I Collected</NavLink>
+        <NavLink to='/this-content-i-collected'>
+          This Content I Collected
+        </NavLink>
       </div>
       {/* right nav */}
       <div className='mx-6 '>
@@ -39,7 +41,7 @@ const Navbar = () => {
                 className={({ isActive }) => {
                   return `${navLinkStyle} ${isActive ? "text-cyan-100" : ""}`;
                 }}
-                to='/'
+                to='/this-content-i-collected'
               >
                 Home
               </NavLink>
@@ -49,7 +51,7 @@ const Navbar = () => {
                 className={({ isActive }) => {
                   return `${navLinkStyle} ${isActive ? "text-cyan-100" : ""}`;
                 }}
-                to='/youtube'
+                to='/this-content-i-collected/youtube'
               >
                 Youtube
               </NavLink>
@@ -59,7 +61,7 @@ const Navbar = () => {
                 className={({ isActive }) => {
                   return `${navLinkStyle} ${isActive ? "text-cyan-100" : ""}`;
                 }}
-                to='/media'
+                to='/this-content-i-collected/media'
               >
                 Media
               </NavLink>
