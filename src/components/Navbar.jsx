@@ -38,8 +38,11 @@ const Navbar = () => {
           >
             <li className={`${listItemStyle}`}>
               <NavLink
+                end
                 className={({ isActive }) => {
-                  return `${navLinkStyle} ${isActive ? "text-cyan-100" : ""}`;
+                  return `${navLinkStyle} ${
+                    isActive ? "text-cyan-100" : undefined
+                  }`;
                 }}
                 to='/this-content-i-collected'
               >
@@ -49,7 +52,9 @@ const Navbar = () => {
             <li className={`${listItemStyle}`}>
               <NavLink
                 className={({ isActive }) => {
-                  return `${navLinkStyle} ${isActive ? "text-cyan-100" : ""}`;
+                  return `${navLinkStyle} ${
+                    isActive ? "text-cyan-100" : undefined
+                  }`;
                 }}
                 to='/this-content-i-collected/youtube'
               >
@@ -59,7 +64,9 @@ const Navbar = () => {
             <li className={`${listItemStyle}`}>
               <NavLink
                 className={({ isActive }) => {
-                  return `${navLinkStyle} ${isActive ? "text-cyan-100" : ""}`;
+                  return `${navLinkStyle} ${
+                    isActive ? "text-cyan-100" : undefined
+                  }`;
                 }}
                 to='/this-content-i-collected/media'
               >

@@ -15,6 +15,14 @@ export const channels = [
     colorSecond: "text-[#0062b8]/70",
   },
   {
+    name: "Theophilus Most Excellent",
+    link: "https://www.youtube.com/c/TheophilusMostExcellent",
+    about:
+      "Seeking to glorify Christ and His Gospel through the medium of YouTube videos †",
+    color: "text-[#0c3370]",
+    colorSecond: "text-[#0c3370]/70",
+  },
+  {
     name: "Desiring God",
     link: "https://www.youtube.com/c/desiringGod",
     about:
@@ -46,8 +54,17 @@ export const channels = [
     colorSecond: "text-[000]/70",
   },
   {
+    name: "Joseph Prince",
+    link: "https://www.youtube.com/c/JosephPrinceOnline",
+    about:
+      "Joseph Prince is a leading voice in proclaiming the gospel of grace around the world through his teaching resources and television ministry.",
+    color: "text-[000]",
+    colorSecond: "text-[000]/70",
+  },
+
+  {
     name: "Living Waters",
-    link: "https://www.youtube.com/thewayofthemaster    ",
+    link: "https://www.youtube.com/thewayofthemaster",
     about:
       "The vision of Living Waters is to inspire and equip Christians to fulfill the Great Commission.  ",
     color: "text-[#1f4ae5]",

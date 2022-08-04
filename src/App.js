@@ -4,11 +4,13 @@ import YoutubeVideo from "./components/YoutubeVideo";
 import Home from "./pages/Home";
 import Media from "./pages/Media";
 import Youtube from "./pages/Youtube";
+import ScrollToTop from "./utils/ScrollToTop";
 
 function App() {
   return (
     <div className="App min-h-full scroll-smooth font-['Ubuntu',sans-serif] bg-cyan-100">
       <BrowserRouter>
+        <ScrollToTop />
         <Navbar />
         <Routes>
           <Route path='/this-content-i-collected' element={<Home />} />
@@ -26,7 +28,6 @@ function App() {
           ></Route>
         </Routes>
       </BrowserRouter>
-      {}
     </div>
   );
 }

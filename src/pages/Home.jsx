@@ -54,7 +54,7 @@ const Home = () => {
           </span>
         </blockquote>
         <button
-          className='absolute bottom-14 text-lg  text-cyan-900 border border-cyan-900 rounded-xl py-3 px-6'
+          className='absolute bottom-24 text-lg  text-cyan-900 border border-cyan-900 rounded-xl py-3 px-6'
           onClick={() => {
             proverbSection.current.scrollIntoView({ behavior: "smooth" });
           }}
@@ -67,7 +67,7 @@ const Home = () => {
           width='18'
           height='18'
           fill='currentColor'
-          className='text-cyan-900 absolute bottom-6  animate-bounce'
+          className='text-cyan-900 absolute bottom-14  animate-bounce'
           viewBox='0 0 16 16'
         >
           <path

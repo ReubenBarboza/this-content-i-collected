@@ -58,12 +58,31 @@ export const videos = [
     title: "The Logic of the Gospel",
     link: "https://www.youtube.com/watch?v=HJrIjfD22PA&ab_channel=DesiringGod",
   },
+  {
+    title: "What about those who have never heard the Gospel?",
+    link: "https://www.youtube.com/watch?v=yQISdCWQhRg&ab_channel=CrossExamined",
+  },
 
+  {
+    title: "How Will God Judge Someone Who Has Never Heard the Gospel?",
+    link: "https://www.youtube.com/watch?v=cBmLTpem7tw&ab_channel=drcraigvideos",
+  },
+  {
+    title: "False Gospels Exposed: Discerning Deception",
+    link: "https://www.youtube.com/watch?v=j1haCqF1xUA&ab_channel=EncounterTV",
+  },
+  {
+    title: "The 10 Commandments",
+    link: "https://www.youtube.com/watch?v=3pweOIaaTVk&list=WL&index=4&ab_channel=TheophilusMostExcellent",
+  },
   {
     title: "Is it True that Everything Happens for a Reason?",
     link: "https://www.youtube.com/watch?v=BFCp9nOy1r4&list=WL&index=7&ab_channel=GotQuestionsMinistries",
   },
-
+  {
+    title: "Your Dutch Uncle's Exegesis in Genesis 1:1",
+    link: "https://www.youtube.com/watch?v=0CgFg5uHof0&list=PLrqoDP8_97FXKMl_8DgyY829RdYUgYct7&index=3&ab_channel=JohnKostik",
+  },
   {
     title: "Is God A Violent Monster?",
     link: "https://www.youtube.com/watch?v=Z-xWCw4V1Qo&ab_channel=TheFuelProject",
